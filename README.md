@@ -10,10 +10,10 @@
 
 <!-- 社交与统计 -->
 <p align="center">
-  <a href="https://github.com/你的用户名">
-    <img src="https://img.shields.io/badge/GitHub-你的用户名-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/everjoy-wang">
+    <img src="https://img.shields.io/badge/GitHub-everjoy-wang-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:你的邮箱@example.com">
+  <a href="mailto:wangle0920@163.com">
     <img src="https://img.shields.io/badge/Email-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://blog.你的博客.com">
@@ -22,11 +22,11 @@
 </p>
 
 <!-- GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=everjoy-wang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everjoy-wang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="165"/>
 
 <!-- 贪吃蛇贡献图（需在个人资料仓库启用 Actions 生成，见 https://github.com/Platane/snk）-->
-<!-- <img src="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg" alt="snake" /> -->
+<!-- <img src="https://github.com/everjoy-wang/everjoy-wang/blob/output/github-contribution-grid-snake.svg" alt="snake" /> -->
 
 ---
 
@@ -68,7 +68,7 @@
 - 🔭 目前在做：**企业级后端 / 微服务 / HRM 相关系统**
 - 🌱 正在学习：**云原生、高并发、分布式**
 - 💬 可以聊：**Java、Spring、数据库、架构设计**
-- 📫 联系：**你的邮箱@example.com**
+- 📫 联系：**wangle0920@163.com**
 - ⚡ 一句话：**热爱代码，持续折腾**
 
 ---
@@ -84,19 +84,19 @@
 ## 🏆 GitHub 成就
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=everjoy-wang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 📈 贡献统计
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=everjoy-wang&theme=tokyonight&hide_border=true&background=0D1117" />
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&style=flat-square&color=00D9FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=everjoy-wang&style=flat-square&color=00D9FF" alt="Profile views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
