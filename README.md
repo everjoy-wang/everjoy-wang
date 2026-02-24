@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 动态打字效果标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+%E2%80%9C%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E2%80%9D;Backend+Developer+%7C+Java+%7C+Spring;Welcome+to+my+Profile+%F0%9F%8E%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ryan;Backend+Developer+%7C+Java+%7C+Spring;Welcome+to+my+Profile+%F0%9F%8E%89" alt="Typing SVG" />
 
 <!-- 分隔线 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
